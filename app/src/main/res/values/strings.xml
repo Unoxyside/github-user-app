@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyGithubApp</string>
+    <string name="search_hint">mau cari siapa?</string>
+    <string name="followers">%1$s Followers</string>
+    <string name="following">%1$s Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="followersSection">Followers</string>
+    <string name="followingSection">Following</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="setting">Setting</string>
+    <string name="add_favorite_user">Add Favorite User</string>
+    <string name="remove_favorite_user">Remove Favorite User</string>
+    <string name="favorites">Favorites</string>
+</resources>
